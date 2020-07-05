@@ -1,0 +1,12 @@
+{
+    "name": "vagrant/testpackage",
+    "description": "This demo package will do some test functions",
+    "authors": [
+        {
+            "name": "Serhii K",
+            "email": "aps.sergey@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
